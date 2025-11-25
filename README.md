@@ -72,8 +72,7 @@ Las contribuciones son bienvenidas. Por favor abre un issue para discutir cambio
 
 ## Autor
 
-[Tu nombre]
-
+bregychoque@ustavillavicencio.edu.co
 ## Versión
 
 - DIBVIGA: v0.3
