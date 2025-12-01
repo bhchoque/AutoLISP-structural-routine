@@ -59,12 +59,12 @@ Para cargar automáticamente al iniciar AutoCAD, agrega estas líneas a tu archi
 
 ## Requisitos
 
-- AutoCAD (probado en versión [especifica tu versión])
+- AutoCAD (probado en versión 2024)
 - Sistema de unidades métricas
 
 ## Licencia
 
-[Elige una licencia - MIT es común para código abierto]
+MIT
 
 ## Contribuciones
 
